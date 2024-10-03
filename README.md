@@ -9,4 +9,3 @@ The Library Management System is designed to help libraries manage their operati
 5. book availability
 
 
-Try to understand the question and plan before implementation!
